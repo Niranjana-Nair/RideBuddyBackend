@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvSrRee5s6yVeNVEAI5YbgwMnpOzTqYou51D6rwBKzIYl6G2HLJ/0F/OHeAJe98kKd9vYMOlEF2SYvoQzeGZ2g==",
+  "success": true,
+  "projectFilePath": "D:\\RideBuddy\\Backend2\\Clean-Arch\\RB.Core.Application\\RB.Core.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnair\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\nnair\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\nnair\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\nnair\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\nnair\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9n+56JmkMhPnr0YMl5acyJ+R4d396Vknbil9s8nWZ7+K8/l67tezXGYu3ry3FyDD02Y89+7W7jGGt9BWmXZxLQ==",
+  "success": true,
+  "projectFilePath": "D:\\RideBuddy\\Backend2\\Clean-Arch\\RB.Core.Domain\\RB.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnair\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\nnair\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\nnair\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
